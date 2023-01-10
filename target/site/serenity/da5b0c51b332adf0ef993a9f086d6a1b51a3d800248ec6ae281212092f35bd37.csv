@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create user data driven test","Data driven test for create multiple users to the application","FAILURE","2023-01-10T17:24:44.934Z[Europe/London]","0.0","180.31"
+"Gorest application","CRUD Test","FAILURE","2023-01-10T17:24:57.953Z[Europe/London]","0.0","2.04"
